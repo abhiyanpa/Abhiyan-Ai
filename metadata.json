@@ -1,0 +1,8 @@
+
+{
+  "name": "Abhiyan AI",
+  "description": "A high-performance, elegant AI companion optimized for extreme speed and clarity.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
